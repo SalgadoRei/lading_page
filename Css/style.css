@@ -13,3 +13,13 @@ html {
   background-attachment: fixed;
   background-size: contain;
 }
+.background-section02 {
+  background-color: #32332d;
+}
+.footer {
+  height: 150px;
+  padding: 25px;
+  text-align: center;
+  background-color: #171813;
+  color: #fff;
+}
