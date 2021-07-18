@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+.section-container{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.background-section {
+  background-color: #171813;
+  background-attachment: fixed;
+  background-size: contain;
+}
